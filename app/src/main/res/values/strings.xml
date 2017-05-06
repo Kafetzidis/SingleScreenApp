@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name"><![CDATA[Anna Svoronou & Associates]]></string>
+    <string name="CompanyName"><![CDATA[Anna Svoronou & Associates]]></string>
+    <string name="slogan">A Human Approach to Legal Service</string>
+    <string name="adress">Dimokritou 4, 106 71, Athens, Greece</string>
+    <string name="telephone">(+30) 211 40 69 383</string>
+    <string name="website">www.svoronou.eu</string>
+    <string name="email">anna@svoronou.eu</string>
+    <string name="facebookicon">FacebookIcon</string>
+    <string name="gplusicon">GPlusIcon</string>
+    <string name="instagramicon">InstagramIcon</string>
+    <string name="twittericon">TwitterIcon</string>
+    <string name="emailicon">EmailIcon</string>
+    <string name="siteicon">SiteIcon</string>
+    <string name="phoneicon">PhoneIcon</string>
+    <string name="mapicon">MapIcon</string>
+    <string name="photo">Photo</string>
+    <string name="logo">logo</string>
+
+</resources>
